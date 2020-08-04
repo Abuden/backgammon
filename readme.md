@@ -45,7 +45,7 @@ Personally, I prefer Eclipse for Java.
 ## Authors
 * [bryansng](https://github.com/bryansng)
 * [LxEmily](https://github.com/LxEmily)
-* [Abuden](https://github.com/Abuden)
+* [yeohbraddy](https://github.com/yeohbraddy)
 
 &nbsp;
 ## Acknowledgments
